@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="null" group-title="自定义", CSBOY
+https://epg.112114.xyz/huya/123321
 #EXTINF:-1 tvg-logo="null" group-title="自定义", Zz1tai姿态
 https://epg.112114.xyz/huya/333003
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 大熊小清新
